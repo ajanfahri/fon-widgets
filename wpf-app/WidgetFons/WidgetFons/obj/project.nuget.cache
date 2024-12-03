@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "skeXbTbDRddPUQR4e2jBEXadf649FAWdYiKB2i+Hbil6U05UzyYMGtpbnn3KBWip3s7Au7+OIf/FxJfh5Qc3bg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ajanuser\\source\\repos\\WidgetFons\\WidgetFons\\WidgetFons.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajanuser\\.nuget\\packages\\htmlagilitypack\\1.11.71\\htmlagilitypack.1.11.71.nupkg.sha512",
+    "C:\\Users\\ajanuser\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
